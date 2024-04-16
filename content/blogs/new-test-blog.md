@@ -13,6 +13,6 @@ description: >-
   teams, leading to inefficiencies and delays in the development process.
 ---
 
-Remove the changes
+Some changes 2
 
 In today’s technology landscape, companies are facing increasing pressure to deliver software quickly and efficiently. However, the challenge of managing complex infrastructure can create friction between development and operations teams, leading to inefficiencies and delays in the development process.
